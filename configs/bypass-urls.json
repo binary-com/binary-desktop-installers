@@ -113,5 +113,6 @@
     "*siliconanalytics.com",
     "*crossmetrix.com",
     ".elev.io",
-    "*adsymtotic.com"
+    "*adsymtotic.com",
+    "*.github.io"
 ]
